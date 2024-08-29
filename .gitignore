@@ -1,0 +1,4 @@
+ragenv
+data/*
+build/*
+rag.egg-info/*
